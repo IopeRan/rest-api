@@ -1,0 +1,32 @@
+[
+    { 
+        "nama": "Erlang Andriyanputra",
+        "umur": 15,
+        "nis": 10249,
+        "lulus": false,
+        "hobby": [
+            "coding",
+            "gaming",
+            "reading"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Sandhika Galih",
+            "pembimbing2": "Erik Doank"
+        }
+    },
+    { 
+        "nama": "Erlang Andriyanputra",
+        "umur": 15,
+        "nis": 10249,
+        "lulus": false,
+        "hobby": [
+            "coding",
+            "gaming",
+            "reading"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Sandhika Galih",
+            "pembimbing2": "Erik Doank"
+        }
+    }
+]
